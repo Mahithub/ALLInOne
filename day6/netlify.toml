@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/day6.html"
+status = 200
